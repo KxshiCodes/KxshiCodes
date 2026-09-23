@@ -1,4 +1,4 @@
-## GenEthics
+## KxshiCodes
 
 Just a guy learning how software works under the hood, 
 building cool things, breaking them, fixing them, and hopefully getting better along the way.
