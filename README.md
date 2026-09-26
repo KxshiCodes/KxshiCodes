@@ -9,5 +9,5 @@ Fun Facts
 
 ### Tools & Technologies 
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,python,azure,linux,windows,powershell,bash,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,python,mysql,git,azure,linux,windows,powershell,bash,html,css)](https://skillicons.dev)
  
