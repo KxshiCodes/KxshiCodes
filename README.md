@@ -8,5 +8,5 @@ Fun Facts
 
 ### Tools & Technologies 
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,neovim,lua,linux,git,azure,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,vscode,idea,neovim,lua,linux,git,azure,html,css)](https://skillicons.dev)
  
