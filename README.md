@@ -7,6 +7,7 @@ Exploring software engineering, learning how things work under the hood, and bui
 
 ### Fun Facts
 - My sense of smell is borderline canine.
+- I caught the Neovim Bug from a colleague.
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=c,java,python,lua,html,css)](https://skillicons.dev)
