@@ -7,7 +7,7 @@ Exploring software engineering, learning how things work under the hood, and bui
 
 ### Fun Facts
 - My sense of smell is borderline canine.
-- I caught the Neovim Bug from a colleague.
+- Got infected with the Neovim bug thanks to my colleagues and [The Primeagen](https://m.youtube.com/@ThePrimeagen/videos?ra=m).
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=c,java,python,lua,html,css)](https://skillicons.dev)
