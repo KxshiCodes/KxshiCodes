@@ -1,12 +1,18 @@
 ## KxshiCodes
 
-Just a guy learning how software works under the hood, 
-building cool things, breaking them, fixing them, and hopefully getting better along the way.
+Exploring software engineering, learning how things work under the hood, and building things along the way.
 
-Fun Facts
-* My sense of smell is borderline canine.
+### Currently
+- 🏊 42 School Piscine
 
-### Tools & Technologies 
+### Fun Facts
+- My sense of smell is borderline canine.
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,vscode,idea,neovim,lua,linux,git,azure,html,css)](https://skillicons.dev)
- 
+### Languages
+[![Languages](https://skillicons.dev/icons?i=c,java,python,lua,html,css)](https://skillicons.dev)
+
+### Tools & Technologies
+[![Tools](https://skillicons.dev/icons?i=linux,git,azure)](https://skillicons.dev)
+
+### Development Environment
+[![Editors](https://skillicons.dev/icons?i=vscode,idea,neovim)](https://skillicons.dev)
