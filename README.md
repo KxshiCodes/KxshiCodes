@@ -1,4 +1,4 @@
-## KxshiCodes
+# KxshiCodes
 
 Exploring software engineering, building practical projects, and understanding how things work under the hood.
 
