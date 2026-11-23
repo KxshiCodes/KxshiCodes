@@ -12,7 +12,7 @@ Exploring software engineering, building practical projects, and understanding h
 - Got infected with the Neovim bug thanks to my colleagues and [ThePrimeagen](https://www.youtube.com/@ThePrimeagen).
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=java,c,python,lua,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,c,html,css)](https://skillicons.dev)
 
 ### Tools & Technologies
 [![Tools](https://skillicons.dev/icons?i=linux,git,azure)](https://skillicons.dev)
