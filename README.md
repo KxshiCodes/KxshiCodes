@@ -26,6 +26,3 @@ Exploring software engineering, learning how things work under the hood, and bui
 
 ### Outils et technologies / Tools & Technologies
 [![Tools](https://skillicons.dev/icons?i=linux,git,azure)](https://skillicons.dev)
-
-### Environnement de développement / Development Environment
-[![Editors](https://skillicons.dev/icons?i=vscode,idea,neovim)](https://skillicons.dev)
