@@ -1,11 +1,6 @@
 ## Software Engineer ✌🏽
 
-Exploring software engineering, building practical projects, and understanding how things work under the hood.
-
-### Currently
-- 🏊 42 School
-- ☕ Focusing on Java
-- 🐧 Exploring Linux and Neovim
+**Focused on** systems programming, Java development, and building software that advances European technological sovereignty.
 
 ### Fun Facts
 - My sense of smell is borderline canine.
