@@ -8,4 +8,4 @@
 - Got infected with the Neovim bug thanks to my colleagues and [ThePrimeagen](https://www.youtube.com/@ThePrimeagen).
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=c,java,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,java,lua,html,css)](https://skillicons.dev)
