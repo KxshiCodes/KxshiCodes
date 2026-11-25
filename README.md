@@ -1,6 +1,7 @@
 ## Software Engineer ✌🏽
 
-**Focused on** systems programming, Java development, and building software that advances European technological sovereignty.
+> [!NOTE]
+> **Focused on** systems programming, Java development, and building software that advances European technological sovereignty.
 
 ### Fun Facts
 - My sense of smell is borderline canine.
